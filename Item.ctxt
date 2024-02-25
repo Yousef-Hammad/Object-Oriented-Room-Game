@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ Zuul\ world\ application.\r\n\ \r\n\ This\ class\ represents\ the\ items\ that\ can\ placed\ inside\ a\ given\ room.\r\n\r\n\ @author\ Yousef\ Hammad\ 101217858\r\n\ @version\ March\ 18,\ 2023\ Assignment\ 2\r\n
+comment1.params=name\ description\ weight
+comment1.target=Item(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n\ \r\n\ @param\ name\ is\ the\ short\ name\ description\ of\ the\ item\r\n\ @param\ description\ is\ the\ description\ of\ the\ item\r\n\ @param\ weight\ is\ the\ weight\ of\ the\ item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Method\ that\ returns\ the\ name\ of\ the\ item\r\n\ \r\n\ @return\ a\ String\ name\ of\ the\ item\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Method\ that\ returns\ a\ description\ of\ the\ item\ along\ with\ its\ weight\r\n\ \r\n\ @return\ a\ String\ description\ of\ the\ item\r\n
+numComments=4
